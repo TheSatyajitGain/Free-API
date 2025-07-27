@@ -1,0 +1,3834 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "title": "Deewana",
+            "release_date": "1992-06-25",
+            "rating": {
+                "imdb": 7.0,
+                "rotten_tomatoes": 72
+            },
+            "genres": [
+                "Drama",
+                "Romance",
+                "Action"
+            ],
+            "director": "Raj Kanwar",
+            "cast": [
+                "Shah Rukh Khan",
+                "Rishi Kapoor",
+                "Divya Bharti",
+                "Amrish Puri"
+            ],
+            "description": "A young woman marries a singer, but after his sudden death, she struggles to overcome her grief until she meets a man who changes her life.",
+            "runtime": 170,
+            "budget": 20000000,
+            "box_office": 180000000,
+            "poster": "https://upload.wikimedia.org/wikipedia/en/a/af/Deewana_1992_film.jpg",
+            "reviews": [
+                {
+                    "user": "MovieBuff23",
+                    "comment": "A classic debut by Shah Rukh Khan!",
+                    "rating": 8
+                }
+            ],
+            "awards": [
+                "Filmfare Award for Best Male Debut"
+            ],
+            "crew": [
+                {
+                    "role": "Cinematographer",
+                    "name": "Harmeet Singh"
+                }
+            ],
+            "production_companies": [
+                "Mayank Arts"
+            ],
+            "distributor": "Eros International",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Chamatkar",
+            "release_date": "1992-07-08",
+            "rating": {
+                "imdb": 6.4,
+                "rotten_tomatoes": 65
+            },
+            "genres": [
+                "Comedy",
+                "Fantasy",
+                "Drama"
+            ],
+            "director": "Rajiv Mehra",
+            "cast": [
+                "Shah Rukh Khan",
+                "Naseeruddin Shah",
+                "Urmila Matondkar"
+            ],
+            "description": "A man finds himself in trouble until he encounters the ghost of a gangster who helps him win over his love.",
+            "runtime": 171,
+            "budget": 15000000,
+            "box_office": 50000000,
+            "poster": "https://upload.wikimedia.org/wikipedia/en/b/b4/Chamatkar.jpg",
+            "reviews": [
+                {
+                    "user": "BollywoodFan95",
+                    "comment": "Unique blend of comedy and fantasy.",
+                    "rating": 7
+                }
+            ],
+            "awards": [],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "Anu Malik"
+                }
+            ],
+            "production_companies": [
+                "Cineyug Films"
+            ],
+            "distributor": "Eros International",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Raju Ban Gaya Gentleman",
+            "release_date": "1992-11-13",
+            "rating": {
+                "imdb": 7.0,
+                "rotten_tomatoes": 70
+            },
+            "genres": [
+                "Romance",
+                "Comedy",
+                "Drama"
+            ],
+            "director": "Aziz Mirza",
+            "cast": [
+                "Shah Rukh Khan",
+                "Juhi Chawla",
+                "Nana Patekar",
+                "Amrita Singh"
+            ],
+            "description": "A small-town man with big dreams moves to the city and gets entangled in a love triangle while trying to succeed.",
+            "runtime": 152,
+            "budget": 10000000,
+            "box_office": 70000000,
+            "poster": "https://upload.wikimedia.org/wikipedia/en/c/cc/Raju_Ban_Gaya_Gentleman.jpg",
+            "reviews": [
+                {
+                    "user": "SRKFanForever",
+                    "comment": "A feel-good film with a lot of heart!",
+                    "rating": 8
+                }
+            ],
+            "awards": [
+                "Filmfare Award for Best Actor (Nomination)"
+            ],
+            "crew": [
+                {
+                    "role": "Producer",
+                    "name": "G.P. Sippy"
+                }
+            ],
+            "production_companies": [
+                "Sippy Films"
+            ],
+            "distributor": "Eros International",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U"
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Dil Aashna Hai",
+            "release_date": "1992-12-25",
+            "rating": {
+                "imdb": 5.9,
+                "rotten_tomatoes": null
+            },
+            "genres": [
+                "Drama",
+                "Romance"
+            ],
+            "director": "Hema Malini",
+            "cast": [
+                "Shah Rukh Khan",
+                "Divya Bharti",
+                "Jeetendra",
+                "Mithun Chakraborty"
+            ],
+            "description": "A dancer discovers her mother’s identity after being abandoned as a child and sets out on a journey to reunite with her.",
+            "runtime": 160,
+            "budget": 12000000,
+            "box_office": 30000000,
+            "poster": "https://upload.wikimedia.org/wikipedia/en/8/8f/Dil_Aashna_Hai.jpg",
+            "reviews": [
+                {
+                    "user": "OldBollywoodLover",
+                    "comment": "An emotional story with strong performances.",
+                    "rating": 6
+                }
+            ],
+            "awards": [],
+            "crew": [
+                {
+                    "role": "Writer",
+                    "name": "Hema Malini"
+                }
+            ],
+            "production_companies": [
+                "H.M. Creations"
+            ],
+            "distributor": "Eros International",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U"
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Kabhi Haan Kabhi Naa",
+            "release_date": "1994-02-25",
+            "rating": {
+                "imdb": 8.0,
+                "rotten_tomatoes": 80
+            },
+            "genres": [
+                "Comedy",
+                "Romance",
+                "Drama"
+            ],
+            "director": "Kundan Shah",
+            "cast": [
+                "Shah Rukh Khan",
+                "Suchitra Krishnamurthy",
+                "Deepak Tijori",
+                "Ravi Baswani"
+            ],
+            "description": "A boy with simple dreams faces numerous ups and downs in love and life but remains hopeful and determined.",
+            "runtime": 158,
+            "budget": 15000000,
+            "box_office": 80000000,
+            "poster": "https://upload.wikimedia.org/wikipedia/en/6/68/Kabhi_Haan_Kabhi_Naa.jpg",
+            "reviews": [
+                {
+                    "user": "RomanticSoul",
+                    "comment": "SRK’s best romantic comedy.",
+                    "rating": 9
+                }
+            ],
+            "awards": [
+                "Filmfare Critics Award for Best Actor"
+            ],
+            "crew": [
+                {
+                    "role": "Editor",
+                    "name": "Renu Saluja"
+                }
+            ],
+            "production_companies": [
+                "Shemaroo Entertainment"
+            ],
+            "distributor": "Eros International",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U"
+            ]
+        },
+        {
+            "id": 6,
+            "title": "King Uncle",
+            "release_date": "1993-02-05",
+            "rating": {
+                "imdb": 5.8,
+                "rotten_tomatoes": null
+            },
+            "genres": [
+                "Drama",
+                "Comedy"
+            ],
+            "director": "Rakesh Roshan",
+            "cast": [
+                "Shah Rukh Khan",
+                "Jackie Shroff",
+                "Anu Agarwal",
+                "Nagma"
+            ],
+            "description": "A rich, stern man’s life changes when he adopts an orphan girl and learns about the value of family.",
+            "runtime": 172,
+            "budget": 20000000,
+            "box_office": 45000000,
+            "poster": "https://upload.wikimedia.org/wikipedia/en/4/4d/King_Uncle.jpg",
+            "reviews": [
+                {
+                    "user": "ClassicCinemaFan",
+                    "comment": "A heartwarming family story with great performances.",
+                    "rating": 6
+                }
+            ],
+            "awards": [],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "Rajesh Roshan"
+                }
+            ],
+            "production_companies": [
+                "Film Kraft"
+            ],
+            "distributor": "Eros International",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U"
+            ]
+        },
+        {
+            "id": 7,
+            "title": "Baazigar",
+            "release_date": "1993-11-12",
+            "rating": {
+                "imdb": 7.7,
+                "rotten_tomatoes": 75
+            },
+            "genres": [
+                "Thriller",
+                "Drama"
+            ],
+            "director": "Abbas-Mustan",
+            "cast": [
+                "Shah Rukh Khan",
+                "Kajol",
+                "Shilpa Shetty",
+                "Rakhee Gulzar"
+            ],
+            "description": "A man takes revenge on a business tycoon by targeting his daughters.",
+            "runtime": 175,
+            "budget": 18000000,
+            "box_office": 140000000,
+            "poster": "https://upload.wikimedia.org/wikipedia/en/8/85/Baazigar_1993.jpg",
+            "reviews": [
+                {
+                    "user": "ThrillerLover88",
+                    "comment": "One of SRK's best performances as an anti-hero.",
+                    "rating": 9
+                }
+            ],
+            "awards": [
+                "Filmfare Award for Best Actor"
+            ],
+            "crew": [
+                {
+                    "role": "Cinematographer",
+                    "name": "Thomas A. Xavier"
+                }
+            ],
+            "production_companies": [
+                "Venus Records & Tapes"
+            ],
+            "distributor": "Eros International",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U/A"
+            ]
+        },
+        {
+            "id": 8,
+            "title": "Darr",
+            "release_date": "1993-12-24",
+            "rating": {
+                "imdb": 7.8,
+                "rotten_tomatoes": 76
+            },
+            "genres": [
+                "Thriller",
+                "Romance",
+                "Drama"
+            ],
+            "director": "Yash Chopra",
+            "cast": [
+                "Shah Rukh Khan",
+                "Sunny Deol",
+                "Juhi Chawla",
+                "Anupam Kher"
+            ],
+            "description": "A young man becomes dangerously obsessed with a woman engaged to someone else.",
+            "runtime": 178,
+            "budget": 21000000,
+            "box_office": 150000000,
+            "poster": "https://upload.wikimedia.org/wikipedia/en/3/34/Darr_poster.jpg",
+            "reviews": [
+                {
+                    "user": "PsychThrillerFan",
+                    "comment": "Shah Rukh Khan excels in his portrayal of obsession.",
+                    "rating": 8
+                }
+            ],
+            "awards": [
+                "Filmfare Award for Best Villain"
+            ],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "Shiv-Hari"
+                }
+            ],
+            "production_companies": [
+                "Yash Raj Films"
+            ],
+            "distributor": "Yash Raj Films",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U/A"
+            ]
+        },
+        {
+            "id": 9,
+            "title": "Anjaam",
+            "release_date": "1994-04-22",
+            "rating": {
+                "imdb": 6.9,
+                "rotten_tomatoes": null
+            },
+            "genres": [
+                "Drama",
+                "Thriller"
+            ],
+            "director": "Rahul Rawail",
+            "cast": [
+                "Shah Rukh Khan",
+                "Madhuri Dixit",
+                "Deepak Tijori",
+                "Tinnu Anand"
+            ],
+            "description": "A man's unrequited love for a woman leads to a path of revenge and destruction.",
+            "runtime": 170,
+            "budget": 18000000,
+            "box_office": 75000000,
+            "poster": "https://upload.wikimedia.org/wikipedia/en/d/dc/Anjaam_%28movie_poster%29.jpg",
+            "reviews": [
+                {
+                    "user": "DarkCinemaEnthusiast",
+                    "comment": "Shah Rukh Khan's intensity is unmatched in this film.",
+                    "rating": 7
+                }
+            ],
+            "awards": [
+                "Filmfare Award for Best Villain"
+            ],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "Anand-Milind"
+                }
+            ],
+            "production_companies": [
+                "Nitin Manmohan"
+            ],
+            "distributor": "Eros International",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "A"
+            ]
+        },
+        {
+            "id": 10,
+            "title": "Karan Arjun",
+            "release_date": "1995-01-13",
+            "rating": {
+                "imdb": 7.0,
+                "rotten_tomatoes": 78
+            },
+            "genres": [
+                "Action",
+                "Drama",
+                "Fantasy"
+            ],
+            "director": "Rakesh Roshan",
+            "cast": [
+                "Shah Rukh Khan",
+                "Salman Khan",
+                "Raakhee",
+                "Kajol",
+                "Amrish Puri"
+            ],
+            "description": "Two brothers are murdered and reincarnated to take revenge on their enemies.",
+            "runtime": 175,
+            "budget": 35000000,
+            "box_office": 530000000,
+            "poster": "https://upload.wikimedia.org/wikipedia/en/8/8b/Karan_Arjun.jpg",
+            "reviews": [
+                {
+                    "user": "ReincarnationFan",
+                    "comment": "An iconic film with a unique storyline!",
+                    "rating": 9
+                }
+            ],
+            "awards": [
+                "Filmfare Award for Best Action"
+            ],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "Rajesh Roshan"
+                }
+            ],
+            "production_companies": [
+                "Film Kraft"
+            ],
+            "distributor": "Eros International",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U/A"
+            ]
+        },
+        {
+            "id": 11,
+            "title": "Zamaana Deewana",
+            "release_date": "1995-07-28",
+            "rating": {
+                "imdb": 5.4,
+                "rotten_tomatoes": null
+            },
+            "genres": [
+                "Comedy",
+                "Drama",
+                "Romance"
+            ],
+            "director": "Ramesh Sippy",
+            "cast": [
+                "Shah Rukh Khan",
+                "Raveena Tandon",
+                "Jeetendra",
+                "Shatrughan Sinha"
+            ],
+            "description": "A police officer tries to unite two families in order to solve the crime problem in the city.",
+            "runtime": 168,
+            "budget": 25000000,
+            "box_office": 40000000,
+            "poster": "https://upload.wikimedia.org/wikipedia/en/a/a8/Zamaana_Deewana.jpg",
+            "reviews": [
+                {
+                    "user": "BollywoodClassicFan",
+                    "comment": "An entertaining mix of comedy and drama.",
+                    "rating": 6
+                }
+            ],
+            "awards": [],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "Anand-Milind"
+                }
+            ],
+            "production_companies": [
+                "Eros Entertainment"
+            ],
+            "distributor": "Eros International",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U/A"
+            ]
+        },
+        {
+            "id": 12,
+            "title": "Guddu",
+            "release_date": "1995-08-11",
+            "rating": {
+                "imdb": 4.6,
+                "rotten_tomatoes": null
+            },
+            "genres": [
+                "Drama",
+                "Romance"
+            ],
+            "director": "Prem Lalwani",
+            "cast": [
+                "Shah Rukh Khan",
+                "Manisha Koirala",
+                "Mukti Mohan",
+                "Ashok Saraf"
+            ],
+            "description": "A young man faces a moral dilemma after an accident leaves his girlfriend blind.",
+            "runtime": 153,
+            "budget": 15000000,
+            "box_office": 30000000,
+            "poster": "https://upload.wikimedia.org/wikipedia/en/e/e1/Guddu.jpg",
+            "reviews": [
+                {
+                    "user": "DramaMovieLover",
+                    "comment": "A tragic tale of love and sacrifice.",
+                    "rating": 5
+                }
+            ],
+            "awards": [],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "Naushad"
+                }
+            ],
+            "production_companies": [
+                "Trilok Sound"
+            ],
+            "distributor": "Bombino Video",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U/A"
+            ]
+        },
+        {
+            "id": 13,
+            "title": "Oh Darling! Yeh Hai India!",
+            "release_date": "1995-08-11",
+            "rating": {
+                "imdb": 5.5,
+                "rotten_tomatoes": null
+            },
+            "genres": [
+                "Comedy",
+                "Drama",
+                "Fantasy"
+            ],
+            "director": "Ketan Mehta",
+            "cast": [
+                "Shah Rukh Khan",
+                "Deepa Sahi",
+                "Anupam Kher",
+                "Amrish Puri"
+            ],
+            "description": "A young man and a woman journey through the city to stop a sinister plot.",
+            "runtime": 160,
+            "budget": 20000000,
+            "box_office": 25000000,
+            "poster": "https://upload.wikimedia.org/wikipedia/en/f/f7/Oh_Darling_Yeh_Hai_India_poster.jpg",
+            "reviews": [
+                {
+                    "user": "ArtHouseCinemaFan",
+                    "comment": "An unconventional story with quirky humor.",
+                    "rating": 6
+                }
+            ],
+            "awards": [],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "Ranjit Barot"
+                }
+            ],
+            "production_companies": [
+                "Ketan Mehta Productions"
+            ],
+            "distributor": "United Seven Combines",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U"
+            ]
+        },
+        {
+            "id": 14,
+            "title": "Dilwale Dulhania Le Jayenge",
+            "release_date": "1995-10-20",
+            "rating": {
+                "imdb": 8.0,
+                "rotten_tomatoes": 95
+            },
+            "genres": [
+                "Romance",
+                "Drama"
+            ],
+            "director": "Aditya Chopra",
+            "cast": [
+                "Shah Rukh Khan",
+                "Kajol",
+                "Amrish Puri",
+                "Farida Jalal",
+                "Anupam Kher"
+            ],
+            "description": "Raj and Simran fall in love while traveling through Europe but must overcome family opposition to be together.",
+            "runtime": 189,
+            "budget": 40000000,
+            "box_office": 2000000000,
+            "poster": "https://upload.wikimedia.org/wikipedia/en/8/80/Dilwale_Dulhania_Le_Jayenge_poster.jpg",
+            "reviews": [
+                {
+                    "user": "RomanticFilmFan",
+                    "comment": "A timeless classic that redefined Bollywood romance.",
+                    "rating": 10
+                }
+            ],
+            "awards": [
+                "Filmfare Award for Best Actor",
+                "Filmfare Award for Best Actress",
+                "Filmfare Award for Best Director"
+            ],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "Jatin-Lalit"
+                }
+            ],
+            "production_companies": [
+                "Yash Raj Films"
+            ],
+            "distributor": "Yash Raj Films",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U"
+            ]
+        },
+        {
+            "id": 15,
+            "title": "English Babu Desi Mem",
+            "release_date": "1996-01-26",
+            "rating": {
+                "imdb": 4.6,
+                "rotten_tomatoes": null
+            },
+            "genres": [
+                "Romance",
+                "Comedy",
+                "Drama"
+            ],
+            "director": "Praveen Nischol",
+            "cast": [
+                "Shah Rukh Khan",
+                "Sonali Bendre",
+                "Sunny Singh",
+                "Rajeshwari Sachdev"
+            ],
+            "description": "A wealthy Indian man living in London returns to India and falls in love with a local woman.",
+            "runtime": 145,
+            "budget": 10000000,
+            "box_office": 18000000,
+            "poster": "https://upload.wikimedia.org/wikipedia/en/0/08/English_Babu_Desi_Mem.jpg",
+            "reviews": [
+                {
+                    "user": "RomComFan",
+                    "comment": "A lighthearted film with a fun storyline.",
+                    "rating": 5
+                }
+            ],
+            "awards": [],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "Nikhil-Vinay"
+                }
+            ],
+            "production_companies": [
+                "Plus Films"
+            ],
+            "distributor": "United Seven Combines",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U"
+            ]
+        },
+        {
+            "id": 16,
+            "title": "Chaahat",
+            "release_date": "1996-06-21",
+            "rating": {
+                "imdb": 5.4,
+                "rotten_tomatoes": null
+            },
+            "genres": [
+                "Romance",
+                "Drama"
+            ],
+            "director": "Mahesh Bhatt",
+            "cast": [
+                "Shah Rukh Khan",
+                "Pooja Bhatt",
+                "Naseeruddin Shah",
+                "Ramya Krishnan"
+            ],
+            "description": "A singer falls in love but must confront a powerful businessman to be with the woman he loves.",
+            "runtime": 145,
+            "budget": 15000000,
+            "box_office": 30000000,
+            "poster": "https://upload.wikimedia.org/wikipedia/en/4/4d/Chaahat_%281996%29.jpg",
+            "reviews": [
+                {
+                    "user": "DramaMovieFan",
+                    "comment": "A moving performance by Shah Rukh Khan.",
+                    "rating": 6
+                }
+            ],
+            "awards": [],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "Anu Malik"
+                }
+            ],
+            "production_companies": [
+                "Vishesh Films"
+            ],
+            "distributor": "Vishesh Films",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U/A"
+            ]
+        },
+        {
+            "id": 17,
+            "title": "Army",
+            "release_date": "1996-06-28",
+            "rating": {
+                "imdb": 5.3,
+                "rotten_tomatoes": null
+            },
+            "genres": [
+                "Action",
+                "Drama"
+            ],
+            "director": "Raam Shetty",
+            "cast": [
+                "Shah Rukh Khan",
+                "Sridevi",
+                "Harish Kumar",
+                "Mohnish Bahl"
+            ],
+            "description": "A woman seeks revenge on her husband's killers by forming her own army.",
+            "runtime": 154,
+            "budget": 20000000,
+            "box_office": 35000000,
+            "poster": "https://upload.wikimedia.org/wikipedia/en/f/fa/ArmySRK.jpg",
+            "reviews": [
+                {
+                    "user": "ActionLover",
+                    "comment": "An intense action-packed story.",
+                    "rating": 6
+                }
+            ],
+            "awards": [],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "Anu Malik"
+                }
+            ],
+            "production_companies": [
+                "Time Magnetics Pvt Ltd"
+            ],
+            "distributor": "Time Magnetics",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "A"
+            ]
+        },
+        {
+            "id": 18,
+            "title": "Koyla",
+            "release_date": "1997-04-18",
+            "rating": {
+                "imdb": 6.2,
+                "rotten_tomatoes": null
+            },
+            "genres": [
+                "Action",
+                "Drama",
+                "Romance"
+            ],
+            "director": "Rakesh Roshan",
+            "cast": [
+                "Shah Rukh Khan",
+                "Madhuri Dixit",
+                "Amrish Puri",
+                "Johnny Lever"
+            ],
+            "description": "A mute man seeks revenge on a ruthless businessman for trapping him in a life of servitude.",
+            "runtime": 167,
+            "budget": 25000000,
+            "box_office": 65000000,
+            "poster": "https://upload.wikimedia.org/wikipedia/en/5/56/Koyla.jpg",
+            "reviews": [
+                {
+                    "user": "DramaActionFan",
+                    "comment": "Intense story with great performances.",
+                    "rating": 7
+                }
+            ],
+            "awards": [
+                "Filmfare Award for Best Villain"
+            ],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "Rajesh Roshan"
+                }
+            ],
+            "production_companies": [
+                "Film Kraft"
+            ],
+            "distributor": "Film Kraft Productions",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U/A"
+            ]
+        },
+        {
+            "id": 19,
+            "title": "Yes Boss",
+            "release_date": "1997-07-18",
+            "rating": {
+                "imdb": 6.8,
+                "rotten_tomatoes": null
+            },
+            "genres": [
+                "Romance",
+                "Comedy"
+            ],
+            "director": "Aziz Mirza",
+            "cast": [
+                "Shah Rukh Khan",
+                "Juhi Chawla",
+                "Aditya Pancholi",
+                "Kashmira Shah"
+            ],
+            "description": "A man helps his boss with romantic affairs, only to fall for the same woman.",
+            "runtime": 163,
+            "budget": 10000000,
+            "box_office": 30000000,
+            "poster": "https://upload.wikimedia.org/wikipedia/en/4/4e/Yes_Boss_film_poster.jpg",
+            "reviews": [
+                {
+                    "user": "RomanceFan",
+                    "comment": "A classic SRK-Juhi romance with humor.",
+                    "rating": 7
+                }
+            ],
+            "awards": [
+                "Filmfare Award for Best Playback Singer (Female)"
+            ],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "Jatin-Lalit"
+                }
+            ],
+            "production_companies": [
+                "Dreamz Unlimited"
+            ],
+            "distributor": "Venus Records & Tapes",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U/A"
+            ]
+        },
+        {
+            "id": 20,
+            "title": "Pardes",
+            "release_date": "1997-08-08",
+            "rating": {
+                "imdb": 7.0,
+                "rotten_tomatoes": null
+            },
+            "genres": [
+                "Romance",
+                "Drama"
+            ],
+            "director": "Subhash Ghai",
+            "cast": [
+                "Shah Rukh Khan",
+                "Mahima Chaudhry",
+                "Amrish Puri",
+                "Apurva Agnihotri"
+            ],
+            "description": "A man from India falls in love with a girl set to marry an NRI.",
+            "runtime": 191,
+            "budget": 12000000,
+            "box_office": 34500000,
+            "poster": "https://upload.wikimedia.org/wikipedia/en/9/90/Pardes_1997_poster.jpg",
+            "reviews": [
+                {
+                    "user": "FamilyDramaFan",
+                    "comment": "Emotionally touching with great performances.",
+                    "rating": 8
+                }
+            ],
+            "awards": [
+                "Filmfare Award for Best Female Debut"
+            ],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "Nadeem-Shravan"
+                }
+            ],
+            "production_companies": [
+                "Mukta Arts"
+            ],
+            "distributor": "Mukta Arts",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U/A"
+            ]
+        },
+        {
+            "id": 21,
+            "title": "Dil To Pagal Hai",
+            "release_date": "1997-10-30",
+            "rating": {
+                "imdb": 7.1,
+                "rotten_tomatoes": null
+            },
+            "genres": [
+                "Romance",
+                "Musical",
+                "Drama"
+            ],
+            "director": "Yash Chopra",
+            "cast": [
+                "Shah Rukh Khan",
+                "Madhuri Dixit",
+                "Karisma Kapoor",
+                "Akshay Kumar"
+            ],
+            "description": "A musical love triangle involving a theater director and two of his dancers.",
+            "runtime": 179,
+            "budget": 20000000,
+            "box_office": 50000000,
+            "poster": "https://example.com/poster/diltopagalhai.jpg",
+            "trailer": "https://youtube.com/trailer/diltopagalhai",
+            "reviews": [
+                {
+                    "user": "MusicalLover",
+                    "comment": "Amazing songs and dance sequences!",
+                    "rating": 8
+                }
+            ],
+            "awards": [
+                "Filmfare Award for Best Film",
+                "National Film Award for Best Popular Film"
+            ],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "Uttam Singh"
+                }
+            ],
+            "production_companies": [
+                "Yash Raj Films"
+            ],
+            "distributor": "Yash Raj Films",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U"
+            ]
+        },
+        {
+            "id": 22,
+            "title": "Duplicate",
+            "release_date": "1998-05-08",
+            "rating": {
+                "imdb": 5.6,
+                "rotten_tomatoes": null
+            },
+            "genres": [
+                "Comedy",
+                "Action"
+            ],
+            "director": "Mahesh Bhatt",
+            "cast": [
+                "Shah Rukh Khan",
+                "Juhi Chawla",
+                "Sonali Bendre",
+                "Farida Jalal"
+            ],
+            "description": "A comedy of errors involving a chef mistaken for a criminal.",
+            "runtime": 165,
+            "budget": 15000000,
+            "box_office": 25000000,
+            "poster": "https://example.com/poster/duplicate.jpg",
+            "trailer": "https://youtube.com/trailer/duplicate",
+            "reviews": [
+                {
+                    "user": "ComedyFan",
+                    "comment": "Hilarious with Shah Rukh Khan's double role.",
+                    "rating": 7
+                }
+            ],
+            "awards": [],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "Anu Malik"
+                }
+            ],
+            "production_companies": [
+                "Dharma Productions"
+            ],
+            "distributor": "Yash Raj Films",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U/A"
+            ]
+        },
+        {
+            "id": 23,
+            "title": "Achanak",
+            "release_date": "1998-10-30",
+            "rating": {
+                "imdb": 4.2,
+                "rotten_tomatoes": null
+            },
+            "genres": [
+                "Action",
+                "Drama"
+            ],
+            "director": "Naresh Malhotra",
+            "cast": [
+                "Govinda",
+                "Manisha Koirala",
+                "Farah Naaz",
+                "Shah Rukh Khan"
+            ],
+            "description": "A former soldier struggles with the trauma of his past actions.",
+            "runtime": 120,
+            "budget": 5000000,
+            "box_office": 15000000,
+            "poster": "https://example.com/poster/achanak.jpg",
+            "trailer": "https://youtube.com/trailer/achanak",
+            "reviews": [
+                {
+                    "user": "DramaFan",
+                    "comment": "A poignant story with powerful performances.",
+                    "rating": 6
+                }
+            ],
+            "awards": [],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "Anu Malik"
+                }
+            ],
+            "production_companies": [
+                "Eagle Films"
+            ],
+            "distributor": "Eros International",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U/A"
+            ]
+        },
+        {
+            "id": 24,
+            "title": "Kuch Kuch Hota Hai",
+            "release_date": "1998-10-16",
+            "rating": {
+                "imdb": 7.6,
+                "rotten_tomatoes": null
+            },
+            "genres": [
+                "Romance",
+                "Comedy",
+                "Drama"
+            ],
+            "director": "Karan Johar",
+            "cast": [
+                "Shah Rukh Khan",
+                "Kajol",
+                "Rani Mukerji",
+                "Salman Khan"
+            ],
+            "description": "A college love triangle reunites years later through a child’s wish.",
+            "runtime": 185,
+            "budget": 10000000,
+            "box_office": 107000000,
+            "poster": "https://example.com/poster/kuchkuchhotahai.jpg",
+            "trailer": "https://youtube.com/trailer/kuchkuchhotahai",
+            "reviews": [
+                {
+                    "user": "BollywoodFan",
+                    "comment": "A timeless classic with iconic performances.",
+                    "rating": 9
+                }
+            ],
+            "awards": [
+                "Filmfare Award for Best Film"
+            ],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "Jatin-Lalit"
+                }
+            ],
+            "production_companies": [
+                "Dharma Productions"
+            ],
+            "distributor": "Yash Raj Films",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U"
+            ]
+        },
+        {
+            "id": 25,
+            "title": "Baadshah",
+            "release_date": "1999-08-27",
+            "rating": {
+                "imdb": 6.9,
+                "rotten_tomatoes": null
+            },
+            "genres": [
+                "Comedy",
+                "Action"
+            ],
+            "director": "Abbas-Mustan",
+            "cast": [
+                "Shah Rukh Khan",
+                "Twinkle Khanna",
+                "Johnny Lever",
+                "Amrish Puri"
+            ],
+            "description": "A private detective gets entangled in a web of crime and corruption.",
+            "runtime": 175,
+            "budget": 14000000,
+            "box_office": 20000000,
+            "poster": "https://example.com/poster/baadshah.jpg",
+            "trailer": "https://youtube.com/trailer/baadshah",
+            "reviews": [
+                {
+                    "user": "ActionFan",
+                    "comment": "A fun mix of action and comedy.",
+                    "rating": 7
+                }
+            ],
+            "awards": [
+                "Filmfare Award for Best Comedian"
+            ],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "Anu Malik"
+                }
+            ],
+            "production_companies": [
+                "Venus Records & Tapes"
+            ],
+            "distributor": "Eros International",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U/A"
+            ]
+        },
+        {
+            "id": 26,
+            "title": "Phir Bhi Dil Hai Hindustani",
+            "release_date": "2000-01-21",
+            "rating": {
+                "imdb": 6.2,
+                "rotten_tomatoes": null
+            },
+            "genres": [
+                "Comedy",
+                "Drama"
+            ],
+            "director": "Aziz Mirza",
+            "cast": [
+                "Shah Rukh Khan",
+                "Juhi Chawla",
+                "Paresh Rawal",
+                "Johnny Lever"
+            ],
+            "description": "Two rival news reporters unite to uncover a political scandal.",
+            "runtime": 160,
+            "budget": 20000000,
+            "box_office": 25000000,
+            "poster": "https://example.com/poster/phirbhidilhaahindustani.jpg",
+            "trailer": "https://youtube.com/trailer/phirbhidilhaahindustani",
+            "reviews": [
+                {
+                    "user": "ComedyFan",
+                    "comment": "Funny with a serious message about media ethics.",
+                    "rating": 7
+                }
+            ],
+            "awards": [],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "Jatin-Lalit"
+                }
+            ],
+            "production_companies": [
+                "Dreamz Unlimited"
+            ],
+            "distributor": "Eros International",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U/A"
+            ]
+        },
+        {
+            "id": 27,
+            "title": "Hey Ram",
+            "release_date": "2000-02-18",
+            "rating": {
+                "imdb": 8.0,
+                "rotten_tomatoes": null
+            },
+            "genres": [
+                "Historical",
+                "Drama"
+            ],
+            "director": "Kamal Haasan",
+            "cast": [
+                "Kamal Haasan",
+                "Shah Rukh Khan",
+                "Rani Mukerji",
+                "Hema Malini"
+            ],
+            "description": "A story set during the partition of India, exploring themes of revenge and redemption.",
+            "runtime": 186,
+            "budget": 7000000,
+            "box_office": 12000000,
+            "poster": "https://example.com/poster/heyram.jpg",
+            "trailer": "https://youtube.com/trailer/heyram",
+            "reviews": [
+                {
+                    "user": "HistoryBuff",
+                    "comment": "A gripping historical drama with strong performances.",
+                    "rating": 9
+                }
+            ],
+            "awards": [
+                "National Film Award for Best Special Effects"
+            ],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "Ilaiyaraaja"
+                }
+            ],
+            "production_companies": [
+                "Raaj Kamal Films International"
+            ],
+            "distributor": "Sony Pictures",
+            "languages": [
+                "Hindi",
+                "Tamil"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "A"
+            ]
+        },
+        {
+            "id": 28,
+            "title": "Josh",
+            "release_date": "2000-06-09",
+            "rating": {
+                "imdb": 6.1,
+                "rotten_tomatoes": null
+            },
+            "genres": [
+                "Action",
+                "Drama"
+            ],
+            "director": "Mansoor Khan",
+            "cast": [
+                "Shah Rukh Khan",
+                "Aishwarya Rai",
+                "Chandrachur Singh",
+                "Sharad Kapoor"
+            ],
+            "description": "Two rival street gangs clash over love and friendship in a small town.",
+            "runtime": 162,
+            "budget": 10000000,
+            "box_office": 30000000,
+            "poster": "https://example.com/poster/josh.jpg",
+            "trailer": "https://youtube.com/trailer/josh",
+            "reviews": [
+                {
+                    "user": "ActionLover",
+                    "comment": "Exciting gang rivalry with a dash of romance.",
+                    "rating": 7
+                }
+            ],
+            "awards": [
+                "Filmfare Award for Best Choreography"
+            ],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "Anu Malik"
+                }
+            ],
+            "production_companies": [
+                "United Seven Combines"
+            ],
+            "distributor": "Eros International",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U/A"
+            ]
+        },
+        {
+            "id": 29,
+            "title": "Har Dil Jo Pyar Karega",
+            "release_date": "2000-08-04",
+            "rating": {
+                "imdb": 5.3,
+                "rotten_tomatoes": null
+            },
+            "genres": [
+                "Romance",
+                "Comedy"
+            ],
+            "director": "Raj Kanwar",
+            "cast": [
+                "Salman Khan",
+                "Rani Mukerji",
+                "Preity Zinta",
+                "Shah Rukh Khan"
+            ],
+            "description": "A love triangle ensues when a man pretends to be the fiancé of a woman in a coma.",
+            "runtime": 165,
+            "budget": 9000000,
+            "box_office": 18000000,
+            "poster": "https://example.com/poster/hardiljopyarkarega.jpg",
+            "trailer": "https://youtube.com/trailer/hardiljopyarkarega",
+            "reviews": [
+                {
+                    "user": "RomanticAtHeart",
+                    "comment": "A lighthearted romantic comedy with memorable performances.",
+                    "rating": 6
+                }
+            ],
+            "awards": [],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "Anu Malik"
+                }
+            ],
+            "production_companies": [
+                "Nadiadwala Grandson Entertainment"
+            ],
+            "distributor": "Eros International",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U"
+            ]
+        },
+        {
+            "id": 30,
+            "title": "Mohabbatein",
+            "release_date": "2000-10-27",
+            "rating": {
+                "imdb": 7.1,
+                "rotten_tomatoes": null
+            },
+            "genres": [
+                "Romance",
+                "Drama"
+            ],
+            "director": "Aditya Chopra",
+            "cast": [
+                "Amitabh Bachchan",
+                "Shah Rukh Khan",
+                "Aishwarya Rai",
+                "Uday Chopra"
+            ],
+            "description": "An inspiring teacher brings love and joy to a strict school, challenging its rigid norms.",
+            "runtime": 216,
+            "budget": 12000000,
+            "box_office": 43000000,
+            "poster": "https://example.com/poster/mohabbatein.jpg",
+            "trailer": "https://youtube.com/trailer/mohabbatein",
+            "reviews": [
+                {
+                    "user": "DramaFanatic",
+                    "comment": "A heartwarming story of love and defiance.",
+                    "rating": 8
+                }
+            ],
+            "awards": [
+                "Filmfare Award for Best Supporting Actor"
+            ],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "Jatin-Lalit"
+                }
+            ],
+            "production_companies": [
+                "Yash Raj Films"
+            ],
+            "distributor": "Yash Raj Films",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U/A"
+            ]
+        },
+        {
+            "id": 31,
+            "title": "Gaja Gamini",
+            "release_date": "2000-12-01",
+            "rating": {
+                "imdb": 4.6,
+                "rotten_tomatoes": null
+            },
+            "genres": [
+                "Fantasy",
+                "Drama"
+            ],
+            "director": "M. F. Husain",
+            "cast": [
+                "Madhuri Dixit",
+                "Shah Rukh Khan",
+                "Naseeruddin Shah",
+                "Shilpa Shirodkar"
+            ],
+            "description": "A surreal tale that explores the feminine mystique and celebrates the essence of womanhood.",
+            "runtime": 125,
+            "budget": 2000000,
+            "box_office": null,
+            "poster": "https://example.com/poster/gajagamini.jpg",
+            "trailer": "https://youtube.com/trailer/gajagamini",
+            "reviews": [
+                {
+                    "user": "ArtLover",
+                    "comment": "A visually enchanting experience, though unconventional.",
+                    "rating": 5
+                }
+            ],
+            "awards": [],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "Bhupen Hazarika"
+                }
+            ],
+            "production_companies": [
+                "M.F. Husain Art"
+            ],
+            "distributor": "Yash Raj Films",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U"
+            ]
+        },
+        {
+            "id": 32,
+            "title": "One 2 Ka 4",
+            "release_date": "2001-03-30",
+            "rating": {
+                "imdb": 5.4,
+                "rotten_tomatoes": null
+            },
+            "genres": [
+                "Action",
+                "Drama"
+            ],
+            "director": "Shashilal K. Nair",
+            "cast": [
+                "Shah Rukh Khan",
+                "Juhi Chawla",
+                "Jackie Shroff",
+                "Nirmal Pandey"
+            ],
+            "description": "A police officer teams up with his friend's children to take down a ruthless drug lord.",
+            "runtime": 155,
+            "budget": 7000000,
+            "box_office": 15000000,
+            "poster": "https://example.com/poster/one2ka4.jpg",
+            "trailer": "https://youtube.com/trailer/one2ka4",
+            "reviews": [
+                {
+                    "user": "ActionFan",
+                    "comment": "Entertaining with solid performances, especially from SRK and Jackie.",
+                    "rating": 6
+                }
+            ],
+            "awards": [],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "A.R. Rahman"
+                }
+            ],
+            "production_companies": [
+                "G. A. Films"
+            ],
+            "distributor": "Eros International",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U/A"
+            ]
+        },
+        {
+            "id": 33,
+            "title": "Aśoka",
+            "release_date": "2001-10-26",
+            "rating": {
+                "imdb": 6.4,
+                "rotten_tomatoes": null
+            },
+            "genres": [
+                "Historical",
+                "Drama"
+            ],
+            "director": "Santosh Sivan",
+            "cast": [
+                "Shah Rukh Khan",
+                "Kareena Kapoor",
+                "Danny Denzongpa",
+                "Rahul Dev"
+            ],
+            "description": "A historical drama that traces the life of Emperor Ashoka and his transformation from a ruthless king to a Buddhist.",
+            "runtime": 176,
+            "budget": 12000000,
+            "box_office": 14000000,
+            "poster": "https://example.com/poster/asoka.jpg",
+            "trailer": "https://youtube.com/trailer/asoka",
+            "reviews": [
+                {
+                    "user": "HistoryBuff",
+                    "comment": "A captivating portrayal of a legendary figure.",
+                    "rating": 7
+                }
+            ],
+            "awards": [
+                "Filmfare Award for Best Art Direction"
+            ],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "Anu Malik"
+                }
+            ],
+            "production_companies": [
+                "Dreamz Unlimited"
+            ],
+            "distributor": "Red Chillies Entertainment",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U/A"
+            ]
+        },
+        {
+            "id": 34,
+            "title": "Kabhi Khushi Kabhie Gham...",
+            "release_date": "2001-12-14",
+            "rating": {
+                "imdb": 7.4,
+                "rotten_tomatoes": null
+            },
+            "genres": [
+                "Drama",
+                "Romance"
+            ],
+            "director": "Karan Johar",
+            "cast": [
+                "Amitabh Bachchan",
+                "Shah Rukh Khan",
+                "Kajol",
+                "Hrithik Roshan",
+                "Kareena Kapoor",
+                "Jaya Bachchan"
+            ],
+            "description": "A story of a wealthy family torn apart by the different paths their sons choose to follow.",
+            "runtime": 210,
+            "budget": 22000000,
+            "box_office": 54000000,
+            "poster": "https://example.com/poster/k3g.jpg",
+            "trailer": "https://youtube.com/trailer/k3g",
+            "reviews": [
+                {
+                    "user": "FamilyMovieLover",
+                    "comment": "An emotional family drama with timeless music.",
+                    "rating": 9
+                }
+            ],
+            "awards": [
+                "Filmfare Award for Best Dialogue"
+            ],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "Jatin-Lalit"
+                }
+            ],
+            "production_companies": [
+                "Dharma Productions"
+            ],
+            "distributor": "Yash Raj Films",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U"
+            ]
+        },
+        {
+            "id": 35,
+            "title": "Hum Tumhare Hain Sanam",
+            "release_date": "2002-05-24",
+            "rating": {
+                "imdb": 5.3,
+                "rotten_tomatoes": null
+            },
+            "genres": [
+                "Drama",
+                "Romance"
+            ],
+            "director": "K. S. Adhiyaman",
+            "cast": [
+                "Shah Rukh Khan",
+                "Salman Khan",
+                "Madhuri Dixit",
+                "Aishwarya Rai"
+            ],
+            "description": "A man's insecurities and misunderstandings strain his marriage with his wife.",
+            "runtime": 174,
+            "budget": 9000000,
+            "box_office": 16000000,
+            "poster": "https://example.com/poster/humtumharehainsanam.jpg",
+            "trailer": "https://youtube.com/trailer/humtumharehainsanam",
+            "reviews": [
+                {
+                    "user": "RomanceFan",
+                    "comment": "A dramatic love triangle with powerful performances.",
+                    "rating": 6
+                }
+            ],
+            "awards": [],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "Nadeem-Shravan"
+                }
+            ],
+            "production_companies": [
+                "A. G. Films Pvt Ltd"
+            ],
+            "distributor": "Eros International",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U/A"
+            ]
+        },
+        {
+            "id": 36,
+            "title": "Devdas",
+            "release_date": "2002-07-12",
+            "rating": {
+                "imdb": 7.5,
+                "rotten_tomatoes": 89
+            },
+            "genres": [
+                "Drama",
+                "Romance"
+            ],
+            "director": "Sanjay Leela Bhansali",
+            "cast": [
+                "Shah Rukh Khan",
+                "Aishwarya Rai",
+                "Madhuri Dixit",
+                "Jackie Shroff"
+            ],
+            "description": "The tragic love story of Devdas, a wealthy man who is unable to marry his childhood love.",
+            "runtime": 185,
+            "budget": 12000000,
+            "box_office": 35000000,
+            "poster": "https://example.com/poster/devdas.jpg",
+            "trailer": "https://youtube.com/trailer/devdas",
+            "reviews": [
+                {
+                    "user": "ClassicCinemaFan",
+                    "comment": "A visually stunning and emotional journey.",
+                    "rating": 9
+                }
+            ],
+            "awards": [
+                "Filmfare Award for Best Film",
+                "National Film Award for Best Popular Film"
+            ],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "Ismail Darbar"
+                }
+            ],
+            "production_companies": [
+                "Mega Bollywood"
+            ],
+            "distributor": "Eros International",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U/A"
+            ]
+        },
+        {
+            "id": 37,
+            "title": "Shakti: The Power",
+            "release_date": "2002-09-20",
+            "rating": {
+                "imdb": 6.0,
+                "rotten_tomatoes": null
+            },
+            "genres": [
+                "Drama",
+                "Action"
+            ],
+            "director": "Krishna Vamsi",
+            "cast": [
+                "Karishma Kapoor",
+                "Shah Rukh Khan",
+                "Nana Patekar",
+                "Sanjay Kapoor"
+            ],
+            "description": "A woman must face brutal challenges to protect her son in a rural area controlled by a violent leader.",
+            "runtime": 170,
+            "budget": 7000000,
+            "box_office": 8000000,
+            "poster": "https://example.com/poster/shakti.jpg",
+            "trailer": "https://youtube.com/trailer/shakti",
+            "reviews": [
+                {
+                    "user": "DramaLover",
+                    "comment": "A powerful performance by Karishma Kapoor, with a cameo from SRK.",
+                    "rating": 7
+                }
+            ],
+            "awards": [],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "Anand-Milind"
+                }
+            ],
+            "production_companies": [
+                "Sridevi Productions"
+            ],
+            "distributor": "Tips Industries",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U/A"
+            ]
+        },
+        {
+            "id": 38,
+            "title": "Saathiya",
+            "release_date": "2002-12-20",
+            "rating": {
+                "imdb": 6.8,
+                "rotten_tomatoes": null
+            },
+            "genres": [
+                "Drama",
+                "Romance"
+            ],
+            "director": "Shaad Ali",
+            "cast": [
+                "Rani Mukerji",
+                "Vivek Oberoi",
+                "Shah Rukh Khan",
+                "Tabu"
+            ],
+            "description": "A young couple elopes, but the struggles of married life soon take their toll.",
+            "runtime": 138,
+            "budget": 6000000,
+            "box_office": 15000000,
+            "poster": "https://example.com/poster/saathiya.jpg",
+            "trailer": "https://youtube.com/trailer/saathiya",
+            "reviews": [
+                {
+                    "user": "RomanticMovieFan",
+                    "comment": "A touching story with memorable music.",
+                    "rating": 8
+                }
+            ],
+            "awards": [
+                "Filmfare Award for Best Screenplay"
+            ],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "A. R. Rahman"
+                }
+            ],
+            "production_companies": [
+                "Yash Raj Films"
+            ],
+            "distributor": "Yash Raj Films",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U"
+            ]
+        },
+        {
+            "id": 39,
+            "title": "Chalte Chalte",
+            "release_date": "2003-06-13",
+            "rating": {
+                "imdb": 6.4,
+                "rotten_tomatoes": null
+            },
+            "genres": [
+                "Drama",
+                "Romance"
+            ],
+            "director": "Minhaz Merchant",
+            "cast": [
+                "Shah Rukh Khan",
+                "Rani Mukerji",
+                "Satish Shah",
+                "Mohnish Bahl"
+            ],
+            "description": "A couple navigates the complexities of love and misunderstandings in their relationship.",
+            "runtime": 147,
+            "budget": 3000000,
+            "box_office": 10000000,
+            "poster": "https://example.com/poster/chalte_chalte.jpg",
+            "trailer": "https://youtube.com/trailer/chalte_chalte",
+            "reviews": [
+                {
+                    "user": "RomanceSeeker",
+                    "comment": "A sweet story with charming performances.",
+                    "rating": 7
+                }
+            ],
+            "awards": [],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "A. R. Rahman"
+                }
+            ],
+            "production_companies": [
+                "Red Chillies Entertainment"
+            ],
+            "distributor": "Yash Raj Films",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U"
+            ]
+        },
+        {
+            "id": 40,
+            "title": "Kal Ho Naa Ho",
+            "release_date": "2003-11-28",
+            "rating": {
+                "imdb": 8.0,
+                "rotten_tomatoes": 84
+            },
+            "genres": [
+                "Drama",
+                "Romance",
+                "Comedy"
+            ],
+            "director": "Nikhil Advani",
+            "cast": [
+                "Shah Rukh Khan",
+                "Saif Ali Khan",
+                "Preity Zinta",
+                "Jaya Bachchan"
+            ],
+            "description": "A terminally ill man tries to bring happiness to the lives of those around him.",
+            "runtime": 186,
+            "budget": 12000000,
+            "box_office": 33000000,
+            "poster": "https://example.com/poster/kal_honaa_ho.jpg",
+            "trailer": "https://youtube.com/trailer/kal_honaa_ho",
+            "reviews": [
+                {
+                    "user": "HeartfeltFan",
+                    "comment": "An emotional rollercoaster with a beautiful message.",
+                    "rating": 10
+                }
+            ],
+            "awards": [
+                "Filmfare Award for Best Film",
+                "Best Actor"
+            ],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "Shankar-Ehsaan-Loy"
+                }
+            ],
+            "production_companies": [
+                "Yash Raj Films"
+            ],
+            "distributor": "Yash Raj Films",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U/A"
+            ]
+        },
+        {
+            "id": 41,
+            "title": "Yeh Lamhe Judaai Ke",
+            "release_date": "2004-01-23",
+            "rating": {
+                "imdb": 4.9,
+                "rotten_tomatoes": null
+            },
+            "genres": [
+                "Drama",
+                "Romance"
+            ],
+            "director": "K. Pappu",
+            "cast": [
+                "Shah Rukh Khan",
+                "Suman Ranganathan",
+                "Ranjeet",
+                "Rajesh Puri"
+            ],
+            "description": "A story of love, loss, and the sacrifices made for relationships.",
+            "runtime": 132,
+            "budget": 5000000,
+            "box_office": 3000000,
+            "poster": "https://example.com/poster/yeh_lamhe_judaai_ke.jpg",
+            "trailer": "https://youtube.com/trailer/yeh_lamhe_judaai_ke",
+            "reviews": [
+                {
+                    "user": "DramaCritic",
+                    "comment": "A melodramatic take on love, though somewhat predictable.",
+                    "rating": 5
+                }
+            ],
+            "awards": [],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "Anand-Milind"
+                }
+            ],
+            "production_companies": [
+                "Ranjit Movies"
+            ],
+            "distributor": "Ranjit Movies",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U"
+            ]
+        },
+        {
+            "id": 42,
+            "title": "Main Hoon Na",
+            "release_date": "2004-04-30",
+            "rating": {
+                "imdb": 7.0,
+                "rotten_tomatoes": 75
+            },
+            "genres": [
+                "Action",
+                "Comedy",
+                "Drama"
+            ],
+            "director": "Farah Khan",
+            "cast": [
+                "Shah Rukh Khan",
+                "Sushmita Sen",
+                "Zayed Khan",
+                "Sunil Shetty"
+            ],
+            "description": "An army major goes undercover as a student to protect a general's daughter.",
+            "runtime": 174,
+            "budget": 8000000,
+            "box_office": 24000000,
+            "poster": "https://example.com/poster/main_hoon_naa.jpg",
+            "trailer": "https://youtube.com/trailer/main_hoon_naa",
+            "reviews": [
+                {
+                    "user": "ActionFan",
+                    "comment": "A fun mix of action, comedy, and romance!",
+                    "rating": 8
+                }
+            ],
+            "awards": [
+                "Filmfare Award for Best Male Playback Singer"
+            ],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "Anu Malik"
+                }
+            ],
+            "production_companies": [
+                "Red Chillies Entertainment"
+            ],
+            "distributor": "Yash Raj Films",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U/A"
+            ]
+        },
+        {
+            "id": 43,
+            "title": "Veer-Zaara",
+            "release_date": "2004-11-12",
+            "rating": {
+                "imdb": 7.9,
+                "rotten_tomatoes": 80
+            },
+            "genres": [
+                "Drama",
+                "Romance"
+            ],
+            "director": "Yash Chopra",
+            "cast": [
+                "Shah Rukh Khan",
+                "Preity Zinta",
+                "Rani Mukerji",
+                "Amitabh Bachchan"
+            ],
+            "description": "A love story between an Indian man and a Pakistani woman, spanning several years and obstacles.",
+            "runtime": 192,
+            "budget": 20000000,
+            "box_office": 25000000,
+            "poster": "https://example.com/poster/veer_zaara.jpg",
+            "trailer": "https://youtube.com/trailer/veer_zaara",
+            "reviews": [
+                {
+                    "user": "RomanceFanatic",
+                    "comment": "A beautifully told story with stunning performances.",
+                    "rating": 9
+                }
+            ],
+            "awards": [
+                "Filmfare Award for Best Film",
+                "Best Actor"
+            ],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "A. R. Rahman"
+                }
+            ],
+            "production_companies": [
+                "Yash Raj Films"
+            ],
+            "distributor": "Yash Raj Films",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U"
+            ]
+        },
+        {
+            "id": 44,
+            "title": "Swades",
+            "release_date": "2004-12-17",
+            "rating": {
+                "imdb": 8.2,
+                "rotten_tomatoes": 91
+            },
+            "genres": [
+                "Drama"
+            ],
+            "director": "Ashutosh Gowariker",
+            "cast": [
+                "Shah Rukh Khan",
+                "Gayatri Joshi",
+                "Kishori Balal",
+                "Makarand Deshpande"
+            ],
+            "description": "An NRI returns to India to find his childhood nanny and discovers his roots.",
+            "runtime": 210,
+            "budget": 4000000,
+            "box_office": 15000000,
+            "poster": "https://example.com/poster/swades.jpg",
+            "trailer": "https://youtube.com/trailer/swades",
+            "reviews": [
+                {
+                    "user": "CulturalCritic",
+                    "comment": "A thought-provoking film with a strong message about social responsibility.",
+                    "rating": 10
+                }
+            ],
+            "awards": [
+                "Filmfare Award for Best Actor"
+            ],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "A. R. Rahman"
+                }
+            ],
+            "production_companies": [
+                "UGC Films"
+            ],
+            "distributor": "Yash Raj Films",
+            "languages": [
+                "Hindi",
+                "English"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U/A"
+            ]
+        },
+        {
+            "id": 45,
+            "title": "Kuchh Meetha Ho Jaye",
+            "release_date": "2005-01-14",
+            "rating": {
+                "imdb": 5.5,
+                "rotten_tomatoes": null
+            },
+            "genres": [
+                "Romance",
+                "Comedy"
+            ],
+            "director": "K. S. Adiyaman",
+            "cast": [
+                "Shah Rukh Khan",
+                "Sakshi Shivanand",
+                "Shweta Menon",
+                "Saurabh Shukla"
+            ],
+            "description": "A romantic comedy that explores love and relationships through the lives of its characters.",
+            "runtime": 130,
+            "budget": 3500000,
+            "box_office": 5000000,
+            "poster": "https://example.com/poster/kuchh_meetha_ho_jaye.jpg",
+            "trailer": "https://youtube.com/trailer/kuchh_meetha_ho_jaye",
+            "reviews": [
+                {
+                    "user": "ComedyLover",
+                    "comment": "A light-hearted film with moments of fun and laughter.",
+                    "rating": 6
+                }
+            ],
+            "awards": [],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "Anu Malik"
+                }
+            ],
+            "production_companies": [
+                "T-Series"
+            ],
+            "distributor": "T-Series",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U"
+            ]
+        },
+        {
+            "id": 46,
+            "title": "Bunty Aur Babli",
+            "release_date": "2005-05-27",
+            "rating": {
+                "imdb": 7.0,
+                "rotten_tomatoes": 75
+            },
+            "genres": [
+                "Comedy",
+                "Drama",
+                "Action"
+            ],
+            "director": "Shaad Ali",
+            "cast": [
+                "Shah Rukh Khan",
+                "Rani Mukerji",
+                "Abhishek Bachchan",
+                "Amitabh Bachchan"
+            ],
+            "description": "A young couple sets out on a life of crime and adventure as they impersonate famous personalities.",
+            "runtime": 145,
+            "budget": 2500000,
+            "box_office": 13000000,
+            "poster": "https://example.com/poster/bunty_aur_babli.jpg",
+            "trailer": "https://youtube.com/trailer/bunty_aur_babli",
+            "reviews": [
+                {
+                    "user": "CinemaLover",
+                    "comment": "A fun-filled caper with great chemistry between the leads.",
+                    "rating": 8
+                }
+            ],
+            "awards": [
+                "Filmfare Award for Best Film"
+            ],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "Shankar-Ehsaan-Loy"
+                }
+            ],
+            "production_companies": [
+                "Yash Raj Films"
+            ],
+            "distributor": "Yash Raj Films",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U"
+            ]
+        },
+        {
+            "id": 47,
+            "title": "Paheli",
+            "release_date": "2005-06-24",
+            "rating": {
+                "imdb": 6.7,
+                "rotten_tomatoes": 80
+            },
+            "genres": [
+                "Fantasy",
+                "Romance",
+                "Drama"
+            ],
+            "director": "Gulzar",
+            "cast": [
+                "Shah Rukh Khan",
+                "Rani Mukerji",
+                "Anupam Kher",
+                "Daya Shankar Pandey"
+            ],
+            "description": "A magical story of a ghost who falls in love with a newly married woman.",
+            "runtime": 120,
+            "budget": 4000000,
+            "box_office": 6000000,
+            "poster": "https://example.com/poster/paheli.jpg",
+            "trailer": "https://youtube.com/trailer/paheli",
+            "reviews": [
+                {
+                    "user": "FantasyFan",
+                    "comment": "A unique take on love and magic, beautifully shot.",
+                    "rating": 9
+                }
+            ],
+            "awards": [
+                "Filmfare Award for Best Art Direction"
+            ],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "A. R. Rahman"
+                }
+            ],
+            "production_companies": [
+                "Red Chillies Entertainment"
+            ],
+            "distributor": "Red Chillies Entertainment",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U"
+            ]
+        },
+        {
+            "id": 48,
+            "title": "Mangal Pandey: The Rising",
+            "release_date": "2005-08-12",
+            "rating": {
+                "imdb": 6.4,
+                "rotten_tomatoes": 66
+            },
+            "genres": [
+                "Action",
+                "Drama",
+                "Historical"
+            ],
+            "director": "Ketan Mehta",
+            "cast": [
+                "Aamir Khan",
+                "Rani Mukerji",
+                "Shah Rukh Khan",
+                "Amisha Patel"
+            ],
+            "description": "The story of Mangal Pandey, a soldier who played a crucial role in the Indian Rebellion of 1857.",
+            "runtime": 148,
+            "budget": 4000000,
+            "box_office": 3000000,
+            "poster": "https://example.com/poster/mangal_pandey.jpg",
+            "trailer": "https://youtube.com/trailer/mangal_pandey",
+            "reviews": [
+                {
+                    "user": "HistoryBuff",
+                    "comment": "A gripping tale of resistance and sacrifice.",
+                    "rating": 7
+                }
+            ],
+            "awards": [
+                "Best Art Direction",
+                "Best Costume Design"
+            ],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "A. R. Rahman"
+                }
+            ],
+            "production_companies": [
+                "UTV Motion Pictures"
+            ],
+            "distributor": "UTV Motion Pictures",
+            "languages": [
+                "Hindi",
+                "English"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U/A"
+            ]
+        },
+        {
+            "id": 49,
+            "title": "Don",
+            "release_date": "2006-10-20",
+            "rating": {
+                "imdb": 7.1,
+                "rotten_tomatoes": 77
+            },
+            "genres": [
+                "Action",
+                "Thriller"
+            ],
+            "director": "Farhan Akhtar",
+            "cast": [
+                "Shah Rukh Khan",
+                "Priyanka Chopra",
+                "Arjun Rampal",
+                "Boman Irani"
+            ],
+            "description": "A remake of the 1978 classic, it follows the story of a notorious gangster and the cop who tries to capture him.",
+            "runtime": 144,
+            "budget": 12000000,
+            "box_office": 22000000,
+            "poster": "https://example.com/poster/don.jpg",
+            "trailer": "https://youtube.com/trailer/don",
+            "reviews": [
+                {
+                    "user": "ActionJunkie",
+                    "comment": "High-octane thrills with a captivating performance by SRK.",
+                    "rating": 8
+                }
+            ],
+            "awards": [
+                "Filmfare Award for Best Action"
+            ],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "Shankar-Ehsaan-Loy"
+                }
+            ],
+            "production_companies": [
+                "Red Chillies Entertainment"
+            ],
+            "distributor": "Excel Entertainment",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U/A"
+            ]
+        },
+        {
+            "id": 50,
+            "title": "I See You",
+            "release_date": "2006-12-22",
+            "rating": {
+                "imdb": 5.9,
+                "rotten_tomatoes": 55
+            },
+            "genres": [
+                "Drama",
+                "Thriller"
+            ],
+            "director": "Rajesh Ranjan",
+            "cast": [
+                "Shah Rukh Khan",
+                "Sushmita Sen",
+                "Zayed Khan",
+                "Riya Sen"
+            ],
+            "description": "A thrilling drama that explores the complexities of relationships and the psychological depths of its characters.",
+            "runtime": 125,
+            "budget": 3000000,
+            "box_office": 5000000,
+            "poster": "https://example.com/poster/i_see_you.jpg",
+            "trailer": "https://youtube.com/trailer/i_see_you",
+            "reviews": [
+                {
+                    "user": "ThrillerFan",
+                    "comment": "A gripping narrative with unexpected twists.",
+                    "rating": 7
+                }
+            ],
+            "awards": [
+                "Best Background Score"
+            ],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "Vishal-Shekhar"
+                }
+            ],
+            "production_companies": [
+                "Red Chillies Entertainment"
+            ],
+            "distributor": "Red Chillies Entertainment",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U/A"
+            ]
+        },
+        {
+            "id": 51,
+            "title": "Kabhi Alvida Naa Kehna",
+            "release_date": "2006-08-11",
+            "rating": {
+                "imdb": 7.1,
+                "rotten_tomatoes": 70
+            },
+            "genres": [
+                "Drama",
+                "Romance"
+            ],
+            "director": "Karan Johar",
+            "cast": [
+                "Shah Rukh Khan",
+                "Rani Mukerji",
+                "Abhishek Bachchan",
+                "Amitabh Bachchan"
+            ],
+            "description": "A complex tale of love and relationships that challenges the norms of marriage and fidelity.",
+            "runtime": 210,
+            "budget": 18000000,
+            "box_office": 12000000,
+            "poster": "https://example.com/poster/kabhi_alvida_naa_kehna.jpg",
+            "trailer": "https://youtube.com/trailer/kabhi_alvida_naa_kehna",
+            "reviews": [
+                {
+                    "user": "RomanticAtHeart",
+                    "comment": "An emotional rollercoaster with strong performances.",
+                    "rating": 8
+                }
+            ],
+            "awards": [
+                "Filmfare Award for Best Dialogue"
+            ],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "Shankar-Ehsaan-Loy"
+                }
+            ],
+            "production_companies": [
+                "Dharma Productions"
+            ],
+            "distributor": "Dharma Productions",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U/A"
+            ]
+        },
+        {
+            "id": 52,
+            "title": "Baabul",
+            "release_date": "2006-12-15",
+            "rating": {
+                "imdb": 5.5,
+                "rotten_tomatoes": 50
+            },
+            "genres": [
+                "Drama",
+                "Family"
+            ],
+            "director": "Vishal Dadlani",
+            "cast": [
+                "Shah Rukh Khan",
+                "Rani Mukerji",
+                "Amitabh Bachchan",
+                "Hema Malini"
+            ],
+            "description": "A heartfelt story of family values and the importance of relationships in the face of tragedy.",
+            "runtime": 125,
+            "budget": 2000000,
+            "box_office": 4000000,
+            "poster": "https://example.com/poster/baabul.jpg",
+            "trailer": "https://youtube.com/trailer/baabul",
+            "reviews": [
+                {
+                    "user": "FamilyWatcher",
+                    "comment": "A touching narrative that highlights the power of love and loss.",
+                    "rating": 6
+                }
+            ],
+            "awards": [
+                "Best Music"
+            ],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "Anu Malik"
+                }
+            ],
+            "production_companies": [
+                "B R Films"
+            ],
+            "distributor": "B R Films",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U"
+            ]
+        },
+        {
+            "id": 53,
+            "title": "Chak De! India",
+            "release_date": "2007-08-10",
+            "rating": {
+                "imdb": 8.2,
+                "rotten_tomatoes": 85
+            },
+            "genres": [
+                "Drama",
+                "Sports"
+            ],
+            "director": "Shimit Amin",
+            "cast": [
+                "Shah Rukh Khan",
+                "Vidya Malvade",
+                "Sagarika Ghatge",
+                "Shilpa Shukla"
+            ],
+            "description": "A former hockey player coaches the Indian women's national team, facing challenges and prejudices along the way.",
+            "runtime": 153,
+            "budget": 3000000,
+            "box_office": 7000000,
+            "poster": "https://example.com/poster/chak_de_india.jpg",
+            "trailer": "https://youtube.com/trailer/chak_de_india",
+            "reviews": [
+                {
+                    "user": "SportsFan",
+                    "comment": "An inspiring story of perseverance and teamwork.",
+                    "rating": 10
+                }
+            ],
+            "awards": [
+                "Filmfare Award for Best Actor",
+                "National Film Award for Best Popular Film"
+            ],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "Pritam"
+                }
+            ],
+            "production_companies": [
+                "Yash Raj Films"
+            ],
+            "distributor": "Yash Raj Films",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U"
+            ]
+        },
+        {
+            "id": 54,
+            "title": "Om Shanti Om",
+            "release_date": "2007-11-09",
+            "rating": {
+                "imdb": 6.7,
+                "rotten_tomatoes": 73
+            },
+            "genres": [
+                "Action",
+                "Comedy",
+                "Drama"
+            ],
+            "director": "Farah Khan",
+            "cast": [
+                "Shah Rukh Khan",
+                "Deepika Padukone",
+                "Arjun Rampal",
+                "Shreyas Talpade"
+            ],
+            "description": "A film about reincarnation, where a junior artist in the 1970s comes back to life to seek revenge on his murderer.",
+            "runtime": 162,
+            "budget": 12000000,
+            "box_office": 50000000,
+            "poster": "https://example.com/poster/om_shanti_om.jpg",
+            "trailer": "https://youtube.com/trailer/om_shanti_om",
+            "reviews": [
+                {
+                    "user": "Cinephile",
+                    "comment": "A vibrant celebration of Bollywood with great music and visuals.",
+                    "rating": 8
+                }
+            ],
+            "awards": [
+                "Filmfare Award for Best Film",
+                "Best Actor"
+            ],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "Vishal-Shekhar"
+                }
+            ],
+            "production_companies": [
+                "Red Chillies Entertainment"
+            ],
+            "distributor": "Yash Raj Films",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U"
+            ]
+        },
+        {
+            "id": 55,
+            "title": "Dulha Mil Gaya",
+            "release_date": "2010-01-08",
+            "rating": {
+                "imdb": 3.2,
+                "rotten_tomatoes": 20
+            },
+            "genres": [
+                "Romance",
+                "Comedy"
+            ],
+            "director": "Maqbool Khan",
+            "cast": [
+                "Shah Rukh Khan",
+                "Fardeen Khan",
+                "Sushmita Sen",
+                "Bipasha Basu"
+            ],
+            "description": "A romantic comedy about a wedding planner who gets entangled in a love story with a twist.",
+            "runtime": 150,
+            "budget": 5000000,
+            "box_office": 2000000,
+            "poster": "https://example.com/poster/dulha_mil_gaya.jpg",
+            "trailer": "https://youtube.com/trailer/dulha_mil_gaya",
+            "reviews": [
+                {
+                    "user": "RomComLover",
+                    "comment": "A light-hearted movie but fails to make a strong impact.",
+                    "rating": 5
+                }
+            ],
+            "awards": [],
+            "crew": [],
+            "production_companies": [
+                "Maqbool Khan Productions"
+            ],
+            "distributor": "Maqbool Khan Productions",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U/A"
+            ]
+        },
+        {
+            "id": 56,
+            "title": "My Name Is Khan",
+            "release_date": "2010-02-12",
+            "rating": {
+                "imdb": 8.0,
+                "rotten_tomatoes": 83
+            },
+            "genres": [
+                "Drama",
+                "Romance"
+            ],
+            "director": "Karan Johar",
+            "cast": [
+                "Shah Rukh Khan",
+                "Kajol",
+                "Jimmy Shergill",
+                "Sonya Jehan"
+            ],
+            "description": "A man with Asperger's syndrome embarks on a journey to meet the President of the United States to clear his name.",
+            "runtime": 165,
+            "budget": 25000000,
+            "box_office": 80000000,
+            "poster": "https://example.com/poster/my_name_is_khan.jpg",
+            "trailer": "https://youtube.com/trailer/my_name_is_khan",
+            "reviews": [
+                {
+                    "user": "DramaticFan",
+                    "comment": "An emotional and powerful narrative that challenges societal norms.",
+                    "rating": 9
+                }
+            ],
+            "awards": [
+                "Filmfare Award for Best Actor"
+            ],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "Shankar-Ehsaan-Loy"
+                }
+            ],
+            "production_companies": [
+                "Dharma Productions"
+            ],
+            "distributor": "Fox Star Studios",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India",
+                "USA"
+            ],
+            "certifications": [
+                "PG-13"
+            ]
+        },
+        {
+            "id": 57,
+            "title": "Ra.One",
+            "release_date": "2011-10-26",
+            "rating": {
+                "imdb": 5.4,
+                "rotten_tomatoes": 38
+            },
+            "genres": [
+                "Action",
+                "Sci-Fi"
+            ],
+            "director": "Anubhav Sinha",
+            "cast": [
+                "Shah Rukh Khan",
+                "Kareena Kapoor",
+                "Arjun Rampal",
+                "Shahana Goswami"
+            ],
+            "description": "A video game designer creates a game that brings its villain to life, leading to chaos.",
+            "runtime": 155,
+            "budget": 25000000,
+            "box_office": 30000000,
+            "poster": "https://example.com/poster/ra_one.jpg",
+            "trailer": "https://youtube.com/trailer/ra_one",
+            "reviews": [
+                {
+                    "user": "SciFiGeek",
+                    "comment": "Visually impressive but the story lacks depth.",
+                    "rating": 6
+                }
+            ],
+            "awards": [
+                "Best Visual Effects"
+            ],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "Vishal-Shekhar"
+                }
+            ],
+            "production_companies": [
+                "Red Chillies Entertainment"
+            ],
+            "distributor": "Eros International",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U/A"
+            ]
+        },
+        {
+            "id": 58,
+            "title": "Don 2",
+            "release_date": "2011-12-23",
+            "rating": {
+                "imdb": 7.1,
+                "rotten_tomatoes": 75
+            },
+            "genres": [
+                "Action",
+                "Thriller"
+            ],
+            "director": "Farhan Akhtar",
+            "cast": [
+                "Shah Rukh Khan",
+                "Priyanka Chopra",
+                "Boman Irani",
+                "Kunal Kapoor"
+            ],
+            "description": "The story follows Don, who has successfully established himself as the king of the underworld in Asia. Now, he aims to expand his empire to Europe while being pursued by law enforcement.",
+            "runtime": 152,
+            "budget": 6000000,
+            "box_office": 23000000,
+            "poster": "https://example.com/poster/don_2.jpg",
+            "trailer": "https://youtube.com/trailer/don_2",
+            "reviews": [
+                {
+                    "user": "ActionFan99",
+                    "comment": "A thrilling sequel with stunning visuals and an engaging plot.",
+                    "rating": 8
+                }
+            ],
+            "awards": [
+                "Best Action",
+                "Best Editing"
+            ],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "Shankar-Ehsaan-Loy"
+                }
+            ],
+            "production_companies": [
+                "Excel Entertainment"
+            ],
+            "distributor": "Reliance Entertainment",
+            "languages": [
+                "Hindi",
+                "English"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U/A"
+            ]
+        },
+        {
+            "id": 59,
+            "title": "Jab Tak Hai Jaan",
+            "release_date": "2012-11-13",
+            "rating": {
+                "imdb": 7.0,
+                "rotten_tomatoes": 58
+            },
+            "genres": [
+                "Drama",
+                "Romance"
+            ],
+            "director": "Yash Chopra",
+            "cast": [
+                "Shah Rukh Khan",
+                "Katrina Kaif",
+                "Anushka Sharma",
+                "Rishi Kapoor"
+            ],
+            "description": "A love story that revolves around a bomb disposal expert who confronts his past and realizes the true meaning of love.",
+            "runtime": 176,
+            "budget": 22000000,
+            "box_office": 24000000,
+            "poster": "https://example.com/poster/jab_tak_hai_jaan.jpg",
+            "trailer": "https://youtube.com/trailer/jab_tak_hai_jaan",
+            "reviews": [
+                {
+                    "user": "RomanticAtHeart",
+                    "comment": "A beautiful film with heartfelt performances and timeless music.",
+                    "rating": 9
+                }
+            ],
+            "awards": [
+                "Filmfare Award for Best Music"
+            ],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "A.R. Rahman"
+                }
+            ],
+            "production_companies": [
+                "Yash Raj Films"
+            ],
+            "distributor": "Yash Raj Films",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U"
+            ]
+        },
+        {
+            "id": 60,
+            "title": "Chennai Express",
+            "release_date": "2013-08-08",
+            "rating": {
+                "imdb": 6.0,
+                "rotten_tomatoes": 42
+            },
+            "genres": [
+                "Action",
+                "Comedy",
+                "Romance"
+            ],
+            "director": "Rohit Shetty",
+            "cast": [
+                "Shah Rukh Khan",
+                "Deepika Padukone",
+                "Sathyaraj",
+                "Manoj Joshi"
+            ],
+            "description": "A man travels to South India on a journey of self-discovery, encountering a series of comical adventures and falling in love along the way.",
+            "runtime": 141,
+            "budget": 6500000,
+            "box_office": 170000000,
+            "poster": "https://example.com/poster/chennai_express.jpg",
+            "trailer": "https://youtube.com/trailer/chennai_express",
+            "reviews": [
+                {
+                    "user": "ComedyFan",
+                    "comment": "A fun-filled ride with great chemistry between the leads and lots of laughs.",
+                    "rating": 7
+                }
+            ],
+            "awards": [
+                "Best Actor",
+                "Best Director"
+            ],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "Vishal-Shekhar"
+                }
+            ],
+            "production_companies": [
+                "Red Chillies Entertainment"
+            ],
+            "distributor": "UTV Motion Pictures",
+            "languages": [
+                "Hindi",
+                "Tamil"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U/A"
+            ]
+        },
+        {
+            "id": 61,
+            "title": "Happy New Year",
+            "release_date": "2014-10-24",
+            "rating": {
+                "imdb": 5.4,
+                "rotten_tomatoes": 32
+            },
+            "genres": [
+                "Action",
+                "Comedy",
+                "Musical"
+            ],
+            "director": "Farah Khan",
+            "cast": [
+                "Shah Rukh Khan",
+                "Deepika Padukone",
+                "Abhishek Bachchan",
+                "Sonu Sood"
+            ],
+            "description": "A group of dancers embarks on a mission to pull off a massive heist during a dance competition in Dubai, all while seeking revenge against a powerful businessman.",
+            "runtime": 180,
+            "budget": 5000000,
+            "box_office": 100000000,
+            "poster": "https://example.com/poster/happy_new_year.jpg",
+            "trailer": "https://youtube.com/trailer/happy_new_year",
+            "reviews": [
+                {
+                    "user": "DanceFan123",
+                    "comment": "An entertaining mix of comedy and action, with some great dance sequences.",
+                    "rating": 6
+                }
+            ],
+            "awards": [
+                "Best Choreography"
+            ],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "Vishal-Shekhar"
+                }
+            ],
+            "production_companies": [
+                "Red Chillies Entertainment"
+            ],
+            "distributor": "Yash Raj Films",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U/A"
+            ]
+        },
+        {
+            "id": 62,
+            "title": "Dilwale",
+            "release_date": "2015-12-18",
+            "rating": {
+                "imdb": 5.2,
+                "rotten_tomatoes": 35
+            },
+            "genres": [
+                "Action",
+                "Romance",
+                "Comedy"
+            ],
+            "director": "Rohit Shetty",
+            "cast": [
+                "Shah Rukh Khan",
+                "Kajol",
+                "Varun Dhawan",
+                "Kriti Sanon"
+            ],
+            "description": "The story follows two rival families, and how love prevails over family feuds when the children from each family fall in love.",
+            "runtime": 158,
+            "budget": 7500000,
+            "box_office": 180000000,
+            "poster": "https://example.com/poster/dilwale.jpg",
+            "trailer": "https://youtube.com/trailer/dilwale",
+            "reviews": [
+                {
+                    "user": "RomanticDreamer",
+                    "comment": "A fun and colorful film with a great cast, although the story felt predictable.",
+                    "rating": 7
+                }
+            ],
+            "awards": [
+                "Best Dialogue"
+            ],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "Pritam"
+                }
+            ],
+            "production_companies": [
+                "Red Chillies Entertainment"
+            ],
+            "distributor": "Fox Star Studios",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U/A"
+            ]
+        },
+        {
+            "id": 63,
+            "title": "Fan",
+            "release_date": "2016-04-15",
+            "rating": {
+                "imdb": 7.0,
+                "rotten_tomatoes": 70
+            },
+            "genres": [
+                "Drama",
+                "Thriller"
+            ],
+            "director": "Maneesh Sharma",
+            "cast": [
+                "Shah Rukh Khan",
+                "Waluscha De Sousa",
+                "Gaurav Arora"
+            ],
+            "description": "The story revolves around a fan who stalks his idol, leading to a series of dramatic events as he struggles with his obsession.",
+            "runtime": 143,
+            "budget": 8000000,
+            "box_office": 50000000,
+            "poster": "https://example.com/poster/fan.jpg",
+            "trailer": "https://youtube.com/trailer/fan",
+            "reviews": [
+                {
+                    "user": "Cinephile101",
+                    "comment": "A gripping tale of obsession with an outstanding performance by SRK.",
+                    "rating": 8
+                }
+            ],
+            "awards": [
+                "Best Actor"
+            ],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "Vishal-Shekhar"
+                }
+            ],
+            "production_companies": [
+                "Yash Raj Films"
+            ],
+            "distributor": "Yash Raj Films",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U/A"
+            ]
+        },
+        {
+            "id": 64,
+            "title": "Dear Zindagi",
+            "release_date": "2016-11-25",
+            "rating": {
+                "imdb": 7.6,
+                "rotten_tomatoes": 86
+            },
+            "genres": [
+                "Drama",
+                "Romance"
+            ],
+            "director": "Gauri Shinde",
+            "cast": [
+                "Shah Rukh Khan",
+                "Alia Bhatt",
+                "Kunal Kapoor",
+                "Aditya Roy Kapur"
+            ],
+            "description": "A young cinematographer struggles with her personal and professional life and seeks the help of an unorthodox therapist.",
+            "runtime": 151,
+            "budget": 5000000,
+            "box_office": 49000000,
+            "poster": "https://example.com/poster/dear_zindagi.jpg",
+            "trailer": "https://youtube.com/trailer/dear_zindagi",
+            "reviews": [
+                {
+                    "user": "MovieBuff92",
+                    "comment": "A beautifully crafted film that explores mental health in a refreshing way.",
+                    "rating": 9
+                }
+            ],
+            "awards": [
+                "Best Debut",
+                "Best Actress"
+            ],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "Amit Trivedi"
+                }
+            ],
+            "production_companies": [
+                "Red Chillies Entertainment"
+            ],
+            "distributor": "Fox Star Studios",
+            "languages": [
+                "Hindi",
+                "English"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U/A"
+            ]
+        },
+        {
+            "id": 65,
+            "title": "Raees",
+            "release_date": "2017-01-25",
+            "rating": {
+                "imdb": 7.1,
+                "rotten_tomatoes": 64
+            },
+            "genres": [
+                "Action",
+                "Crime",
+                "Drama"
+            ],
+            "director": "Rahul Dholakia",
+            "cast": [
+                "Shah Rukh Khan",
+                "Mahira Khan",
+                "Nawazuddin Siddiqui",
+                "Masaan Mukesh"
+            ],
+            "description": "Set in the 1980s, Raees is a story about a bootlegger who rises to power but has to face challenges from a police officer.",
+            "runtime": 138,
+            "budget": 9000000,
+            "box_office": 190000000,
+            "poster": "https://example.com/poster/raees.jpg",
+            "trailer": "https://youtube.com/trailer/raees",
+            "reviews": [
+                {
+                    "user": "ActionFan89",
+                    "comment": "Shah Rukh Khan delivers a powerful performance in a gripping story.",
+                    "rating": 8
+                }
+            ],
+            "awards": [
+                "Best Actor",
+                "Best Film"
+            ],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "Ram Sampath"
+                }
+            ],
+            "production_companies": [
+                "Red Chillies Entertainment"
+            ],
+            "distributor": "Excel Entertainment",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U/A"
+            ]
+        },
+        {
+            "id": 66,
+            "title": "Jab Harry Met Sejal",
+            "release_date": "2017-08-04",
+            "rating": {
+                "imdb": 5.9,
+                "rotten_tomatoes": 41
+            },
+            "genres": [
+                "Romance",
+                "Comedy",
+                "Drama"
+            ],
+            "director": "Imtiaz Ali",
+            "cast": [
+                "Shah Rukh Khan",
+                "Anushka Sharma",
+                "Manish Paul",
+                "Diana Penty"
+            ],
+            "description": "A romantic comedy about a couple who travel together across Europe, looking for a lost engagement ring and discovering love along the way.",
+            "runtime": 142,
+            "budget": 8000000,
+            "box_office": 65000000,
+            "poster": "https://example.com/poster/jab_harry_met_sejal.jpg",
+            "trailer": "https://youtube.com/trailer/jab_harry_met_sejal",
+            "reviews": [
+                {
+                    "user": "RomComFan88",
+                    "comment": "A light-hearted film with charming performances, but lacks depth.",
+                    "rating": 6
+                }
+            ],
+            "awards": [
+                "Best Actress"
+            ],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "Pritam"
+                }
+            ],
+            "production_companies": [
+                "Red Chillies Entertainment"
+            ],
+            "distributor": "Reliance Entertainment",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U/A"
+            ]
+        },
+        {
+            "id": 67,
+            "title": "Zero",
+            "release_date": "2018-12-21",
+            "rating": {
+                "imdb": 5.8,
+                "rotten_tomatoes": 55
+            },
+            "genres": [
+                "Drama",
+                "Romance",
+                "Comedy"
+            ],
+            "director": "Aanand L. Rai",
+            "cast": [
+                "Shah Rukh Khan",
+                "Anushka Sharma",
+                "Katrina Kaif",
+                "Abhay Deol"
+            ],
+            "description": "A story about a dwarf man who falls in love with a famous actress and navigates his complex relationships.",
+            "runtime": 164,
+            "budget": 9000000,
+            "box_office": 68000000,
+            "poster": "https://example.com/poster/zero.jpg",
+            "trailer": "https://youtube.com/trailer/zero",
+            "reviews": [
+                {
+                    "user": "DramaticViewer",
+                    "comment": "An ambitious film with a unique concept and strong performances.",
+                    "rating": 7
+                }
+            ],
+            "awards": [
+                "Best Special Effects"
+            ],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "Ajay-Atul"
+                }
+            ],
+            "production_companies": [
+                "Red Chillies Entertainment"
+            ],
+            "distributor": "Zee Studios",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U/A"
+            ]
+        },
+        {
+            "id": 68,
+            "title": "Badla",
+            "release_date": "2019-03-08",
+            "rating": {
+                "imdb": 7.2,
+                "rotten_tomatoes": 87
+            },
+            "genres": [
+                "Thriller",
+                "Mystery"
+            ],
+            "director": "Sujoy Ghosh",
+            "cast": [
+                "Amitabh Bachchan",
+                "Shah Rukh Khan",
+                "Taapsee Pannu",
+                "Diana Penty"
+            ],
+            "description": "A lawyer helps a young woman accused of murdering her lover, but things are not as straightforward as they seem.",
+            "runtime": 118,
+            "budget": 6000000,
+            "box_office": 130000000,
+            "poster": "https://example.com/poster/badla.jpg",
+            "trailer": "https://youtube.com/trailer/badla",
+            "reviews": [
+                {
+                    "user": "ThrillerFan87",
+                    "comment": "A gripping thriller with unexpected twists.",
+                    "rating": 9
+                }
+            ],
+            "awards": [
+                "Best Adapted Screenplay"
+            ],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "Amit Trivedi"
+                }
+            ],
+            "production_companies": [
+                "Red Chillies Entertainment"
+            ],
+            "distributor": "Azure Entertainment",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U/A"
+            ]
+        },
+        {
+            "id": 69,
+            "title": "Dil Bechara",
+            "release_date": "2020-07-24",
+            "rating": {
+                "imdb": 8.1,
+                "rotten_tomatoes": 95
+            },
+            "genres": [
+                "Drama",
+                "Romance"
+            ],
+            "director": "Mukesh Chhabra",
+            "cast": [
+                "Sushant Singh Rajput",
+                "Shah Rukh Khan",
+                "Sanjana Sanghi",
+                "Saif Ali Khan"
+            ],
+            "description": "A poignant love story between two cancer patients who find solace in each other's company.",
+            "runtime": 101,
+            "budget": 2000000,
+            "box_office": 80000000,
+            "poster": "https://example.com/poster/dil_bechara.jpg",
+            "trailer": "https://youtube.com/trailer/dil_bechara",
+            "reviews": [
+                {
+                    "user": "EmotionalViewer",
+                    "comment": "A touching story that beautifully portrays love and loss.",
+                    "rating": 10
+                }
+            ],
+            "awards": [
+                "Best Feature Film",
+                "Best Actor"
+            ],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "A.R. Rahman"
+                }
+            ],
+            "production_companies": [
+                "Fox Star Studios"
+            ],
+            "distributor": "Disney+ Hotstar",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U/A"
+            ]
+        },
+        {
+            "id": 70,
+            "title": "Pathaan",
+            "release_date": "2023-01-25",
+            "rating": {
+                "imdb": 6.3,
+                "rotten_tomatoes": 83
+            },
+            "genres": [
+                "Action",
+                "Thriller"
+            ],
+            "director": "Siddharth Anand",
+            "cast": [
+                "Shah Rukh Khan",
+                "Deepika Padukone",
+                "John Abraham",
+                "Dimple Kapadia"
+            ],
+            "description": "A spy thriller where an exiled RAW agent is called back to action to stop a deadly attack on India.",
+            "runtime": 146,
+            "budget": 25000000,
+            "box_office": 1000000000,
+            "poster": "https://example.com/poster/pathaan.jpg",
+            "trailer": "https://youtube.com/trailer/pathaan",
+            "reviews": [
+                {
+                    "user": "ActionLover90",
+                    "comment": "A high-octane action film with stunning visuals and a gripping plot.",
+                    "rating": 8
+                }
+            ],
+            "awards": [
+                "Best Action",
+                "Best Actor"
+            ],
+            "crew": [
+                {
+                    "role": "Music Director",
+                    "name": "Vishal-Shekhar"
+                }
+            ],
+            "production_companies": [
+                "Yash Raj Films"
+            ],
+            "distributor": "Yash Raj Films",
+            "languages": [
+                "Hindi"
+            ],
+            "countries": [
+                "India"
+            ],
+            "certifications": [
+                "U/A"
+            ]
+        }
+    ]
+}
