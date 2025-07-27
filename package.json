@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-backend",
+  "name": "Free API",
   "version": "1.0.0",
   "description": "First Nodejs Backend",
   "main": "server.js",
@@ -8,9 +8,7 @@
     "start": "node server.js"
   },
   "keywords": [
-    "First",
-    "Nodejs",
-    "Backend"
+    "Free API"
   ],
   "author": "Satyajit Gain",
   "license": "ISC",
