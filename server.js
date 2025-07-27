@@ -2,7 +2,7 @@ const express = require('express');
 const server = express();
 const path = require('path');
 
-server.get('/srkmovies', (req, res) => {
+server.get('/', (req, res) => {
   res.sendFile(path.join(__dirname, '/srkMovies.json'));
 });
 const PORT = process.env.PORT || 5656;
