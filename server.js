@@ -5,7 +5,7 @@ const path = require('path');
 server.get('/srkmovies', (req, res) => {
   res.sendFile(path.join(__dirname, '/srkMovies.json'));
 });
-
-server.listen(5656, () => {
+const PORT = process.env.PORT || 5656;
+server.listen(PORT, () => {
   console.log('Server Running at Port Number 5656');
 });
